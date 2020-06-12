@@ -26,23 +26,29 @@ Data retrieved via Census API as: [API]<https://www.census.gov/data/developers/d
 	2. Unsupervised_Cluster (for selecting States with similar demographic features with Illinois)
 
 		1. Function for by-county crime rate plotting
+		
 		![](readmepic/2.png)
 
 		2. Function for by-state crime rate plotting
+		
 		![](readmepic/3.png)
 
 		3. Hierarchical Clustering
+		
 		![](readmepic/4.png)
 
 		4. K-means Clustering
+		
 		![](readmepic/5.png)
 
 	3. Supervised_And_Synth include linear regression model and synthetic control method.
 
 		1. Linear model construction
+		
 		![](readmepic/6.png)
 
 		2. Model Regularization
+		
 		![](readmepic/7.png)
 		
 		3. Bootstrapping
