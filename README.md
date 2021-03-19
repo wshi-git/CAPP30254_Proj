@@ -54,5 +54,8 @@ Data retrieved via Census API as: [API]<https://www.census.gov/data/developers/d
 		3. Bootstrapping
 		4. Synth Method
 3. STATA: This folder include the do files showing the further statistical analysis for Bootstrapping and Synthetic Control Method.
+	![](STATA/Graph/synth.png)
+	
+	[](STATA/Graph/Bootstrapped_SE.png)
 4. Excel: This folder include the xlsx files we use to draw our trends.
 5. PDFs: Final presentation and Final report.
