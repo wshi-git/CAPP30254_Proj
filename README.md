@@ -23,7 +23,16 @@ Data retrieved via Census API as: [API]<https://www.census.gov/data/developers/d
 		1. Function for Heatmap of criminal incidences locations in Chicago
 		![](readmepic/1.png)
 
-	2. Unsupervised_Cluster (for selecting States with similar demographic features with Illinois)
+	2. Supervised_And_Synth include linear regression model and synthetic control method.
+
+		1. Linear model construction
+		
+		![](readmepic/6.png)
+
+		2. Model Regularization
+		3. Bootstrapping
+		4. Synth Method
+	3. Unsupervised_Cluster (for selecting States with similar demographic features with Illinois)
 
 		1. Function for by-county crime rate plotting
 		
@@ -40,16 +49,6 @@ Data retrieved via Census API as: [API]<https://www.census.gov/data/developers/d
 		4. K-means Clustering
 		
 		![](readmepic/5.png)
-
-	3. Supervised_And_Synth include linear regression model and synthetic control method.
-
-		1. Linear model construction
-		
-		![](readmepic/6.png)
-
-		2. Model Regularization
-		3. Bootstrapping
-		4. Synth Method
 3. STATA: This folder include the do files showing the further statistical analysis for Bootstrapping and Synthetic Control Method.
 	![](STATA/Graph/synth.png)
 	
