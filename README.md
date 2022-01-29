@@ -48,9 +48,6 @@ Data retrieved via Census API as: [API]<https://www.census.gov/data/developers/d
 		![](readmepic/6.png)
 
 		2. Model Regularization
-		
-		![](readmepic/7.png)
-		
 		3. Bootstrapping
 		4. Synth Method
 3. STATA: This folder include the do files showing the further statistical analysis for Bootstrapping and Synthetic Control Method.
